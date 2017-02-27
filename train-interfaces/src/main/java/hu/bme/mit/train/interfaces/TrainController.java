@@ -12,4 +12,5 @@ public interface TrainController {
 	
 	void emergencyStop();
 
+	int getFirstStep();
 }
