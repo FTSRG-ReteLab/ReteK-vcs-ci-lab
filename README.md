@@ -1,2 +1,3 @@
-# vcs-ci-lab
-Sample application for the version control systems and continuous integration laboratory
+#Ez itt egy readme fájl
+**Amelyet markdown-ok segítségével hoztunk létre.**
+*A Rendszertervezés laboratórium 1. tárgy 2. laborjára*
